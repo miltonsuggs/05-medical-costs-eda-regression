@@ -1,4 +1,4 @@
-# EDA_ML_Medical-Costs
+# Medical Costs Predictive Modeling
 An exploratory data analysis and machine learning implementation of a Medical Costs data set from Kaggle.
 
 ## PROJECT DESCRIPTION
