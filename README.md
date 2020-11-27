@@ -53,6 +53,8 @@ Several metrics were used to evaluate our models including:
 
 The **Random Forest Regression Model** is the model that gives us the best results with an R Squared score of 86% and a lower error scores than the other models. 
 
+MODEL IMPLEMENTATION WEBSITE: https://medical-cost-deployment.herokuapp.com/
+
 Thanks for stopping by!
 
 Milton
